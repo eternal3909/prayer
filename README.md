@@ -14,7 +14,7 @@ A heart
 
 ### Installing
 
-YOu don't need to install.
+You don't need to install.
 
 
 ## Deployment
@@ -35,9 +35,8 @@ MORE prayer!!!
     
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+This project is licensed under the CC0 1.0 Universal
+Creative Commons License 
 
 ## Acknowledgments
 
