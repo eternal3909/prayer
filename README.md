@@ -1,6 +1,6 @@
 # Welcome
 
-THis is a website about prayer
+This is a website about prayer
 
 [Take a look](https://eternal3909.github.io/prayer/)☺.
 
