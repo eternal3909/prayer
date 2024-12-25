@@ -10,7 +10,7 @@ Just go to the[website](https://eternal3909.github.io/prayer/).
 
 ### Prerequisites
 
-A heart
+A heart.
 
 ### Installing
 
@@ -27,7 +27,7 @@ MORE prayer!!!
     
 ## Versioning
 
-[build}v26.358
+1.53.0865
 
 ## Authors
 
